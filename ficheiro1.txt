@@ -14,4 +14,8 @@ Fiz uma alteração dentro do ficheiro.
 
 !!!!!Alterações efetuadas no braanch NovaFeature!!!!!
 
+
 Alteração no branch NovaFeature
+
+Alteração no branch MASTER
+
