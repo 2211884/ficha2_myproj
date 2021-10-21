@@ -1,4 +1,4 @@
-Este é o exemplo de um ficheiro de texto ficheiro1
+Eliminei a primeira linha e escrevi esta!!
 
 
 
@@ -9,4 +9,7 @@ Este é o exemplo de um ficheiro de texto ficheiro1
 
 
 
-Fiz uma alteração
+Fiz uma alteração dentro do ficheiro.
+
+
+!!!!!Alterações efetuadas no braanch NovaFeature!!!!!
